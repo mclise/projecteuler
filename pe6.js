@@ -22,4 +22,4 @@ var sumsDiff = function(n){
 
 sumsDiff(100);
 
-// Solution: 
+// Solution: 25164150
